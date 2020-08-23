@@ -1,6 +1,6 @@
 {
 	"name": "mapboxgh",
-	"homepage": "https://github.com/jorgegso/mapBoxApi",
+	"homepage": "https://github.com/jorgegso/apiMapBox",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
